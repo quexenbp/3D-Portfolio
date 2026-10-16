@@ -18,6 +18,11 @@ Animated cosmetics for Minecraft: auras, head cosmetics, wings and pets. Each it
 | ![Golden Halo](minecraft/golden-halo/preview.gif) | ![Lucky Aura](minecraft/lucky-aura/preview.gif) |
 | Head cosmetic with a rotating golden ornament. | Orbiting four-leaf clovers around the player. |
 
+| Cyber Wings | Sleepy Black Cat |
+|:---:|:---:|
+| ![Cyber Wings](minecraft/cyber-wings/preview.png) | ![Sleepy Black Cat](minecraft/sleepy-black-cat/preview.png) |
+| Glowing green and white wings made of small segments. | Black cat sleeping on the player's head. |
+
 More previews: [minecraft/](minecraft/)
 
 ---
@@ -35,3 +40,4 @@ Blender, Python (Blender scripting)
 ## License
 
 All rights reserved. The models and animations shown here may not be copied, redistributed or used without permission.
+
