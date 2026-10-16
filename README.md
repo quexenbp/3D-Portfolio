@@ -2,11 +2,15 @@
 
 3D models and animations made in **Blender**. This repo only contains previews (GIFs and videos). Source files are private.
 
+## ♡⃕ About
+
+Hi, I'm ubershime. I make 3D cosmetics and animations in Blender, mainly for Minecraft, with Roblox coming next. I focus on clean low-poly models, pixel textures and smooth loops. I love creative design ideas and want to fulfill the internet with them! ♡
+
 ## Contents
 
+- [About](#-about)
 - [Minecraft](#minecraft)
 - [Roblox](#roblox)
-- [About](#-about)
 - [Contact](#-contact)
 
 ---
@@ -59,10 +63,6 @@ Blender, Python (Blender scripting)
 All rights reserved. The models and animations shown here may not be copied, redistributed or used without permission.
 
 ---
-
-## ♡⃕ About
-
-Hi, I'm ubershime. I make 3D cosmetics and animations in Blender, mainly for Minecraft, with Roblox coming next. I focus on clean low-poly models, pixel textures and smooth loops. I love creative design ideas and want to fulfill the internet with them! ♡
 
 ## ♡⃕ Contact
 
