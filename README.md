@@ -1,13 +1,37 @@
 ﻿# 3D Portfolio
 
-Showcase of my 3D work, made in Blender. Previews only, source files are private.
+3D models and animations made in **Blender**. This repo only contains previews (GIFs and videos). Source files are private.
+
+## Contents
+
+- [Minecraft](#minecraft)
+- [Roblox](#roblox)
+
+---
 
 ## Minecraft
-Cosmetics for Minecraft (auras, head cosmetics, wings and more). Browse the [minecraft/](minecraft/) folder.
 
-| Kutsal Hale | Yonca Aurasi |
-|---|---|
-| ![Kutsal Hale](minecraft/kutsal-hale.gif) | ![Yonca Aurasi](minecraft/yonca-aurasi.gif) |
+Animated cosmetics for Minecraft: auras, head cosmetics, wings and pets. Each item is modeled, rigged and animated in Blender.
+
+| Golden Halo | Lucky Aura |
+|:---:|:---:|
+| ![Golden Halo](minecraft/golden-halo/preview.gif) | ![Lucky Aura](minecraft/lucky-aura/preview.gif) |
+| Head cosmetic with a rotating golden ornament. | Orbiting four-leaf clovers around the player. |
+
+More previews: [minecraft/](minecraft/)
+
+---
 
 ## Roblox
-Coming soon. See [roblox/](roblox/).
+
+Coming soon.
+
+---
+
+## Tools
+
+Blender, Python (Blender scripting)
+
+## License
+
+All rights reserved. The models and animations shown here may not be copied, redistributed or used without permission.
