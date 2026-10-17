@@ -9,9 +9,20 @@ Hi, I'm ubershime. I make 3D cosmetics and animations in Blender, mainly for Min
 ## Contents
 
 - [About](#-about)
+- [Weeping Angel](#weeping-angel)
 - [Minecraft](#minecraft)
 - [Roblox](#roblox)
 - [Contact](#-contact)
+
+---
+
+## Weeping Angel
+
+![Weeping Angel](minecraft/weeping-angel/preview.gif)
+
+a cute weeping angel animation I just made! ( ˶ˆᗜˆ˵ )
+
+[Watch the 40 second video](minecraft/weeping-angel/video.mp4) · [Vertical version (9:16)](minecraft/weeping-angel/video_vertical.mp4) · [Still frame](minecraft/weeping-angel/still.png)
 
 ---
 
@@ -45,14 +56,6 @@ Animated cosmetics for Minecraft: auras, head cosmetics, wings and pets. Each it
 | Pink crystal ornament worn behind the head. |
 
 More previews: [minecraft/](minecraft/)
-
-### Weeping Angel: Snowy Cemetery
-
-![Weeping Angel](minecraft/weeping-angel/preview.gif)
-
-A Minecraft-style take on the "Angel of Grief" grave statue, set in a snowy spruce forest at blue hour. The statue was modeled in Blockbench and converted to a Java block model, then placed in a voxel map built with Blender Python. Falling snow is made with Geometry Nodes and loops forever, and the lanterns give warm light against cold moonlight and thick snow fog.
-
-[Watch the 40 second video](minecraft/weeping-angel/video.mp4) · [Vertical version (9:16)](minecraft/weeping-angel/video_vertical.mp4) · [Still frame](minecraft/weeping-angel/still.png)
 
 ---
 
