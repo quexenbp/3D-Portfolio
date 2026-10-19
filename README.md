@@ -28,7 +28,7 @@ a cute weeping angel animation I just made! ( ˶ˆᗜˆ˵ )
 
 ## Minecraft
 
-Animated cosmetics for Minecraft: auras, head cosmetics, wings and pets. Each item is modeled, rigged and animated in Blender.
+Animated cosmetics and emotes for Minecraft: auras, head cosmetics, wings, pets and emotes. Each item is modeled, rigged and animated in Blender.
 
 | Golden Halo | Lucky Aura |
 |:---:|:---:|
@@ -50,10 +50,23 @@ Animated cosmetics for Minecraft: auras, head cosmetics, wings and pets. Each it
 | ![Head Hearts](minecraft/head-hearts/preview.png) | ![Cat Ears](minecraft/cat-ears/preview.png) |
 | Small pixel hearts rising above the head. | Pixel cat ears in white and black. |
 
-| Pink Crystal |
-|:---:|
-| ![Pink Crystal](minecraft/pink-crystal/preview.png) |
-| Pink crystal ornament worn behind the head. |
+| Pink Crystal | Sun Halo |
+|:---:|:---:|
+| ![Pink Crystal](minecraft/pink-crystal/preview.png) | ![Sun Halo](minecraft/sun-halo/preview.gif) |
+| Pink crystal ornament worn behind the head. | Pixel sun behind the head with flickering flame rays. |
+
+| Tiny Dancers | Chess Aura |
+|:---:|:---:|
+| ![Tiny Dancers](minecraft/tiny-dancers/preview.gif) | ![Chess Aura](minecraft/chess-aura/preview.gif) |
+| Four tiny Minecraft people dancing in a ring above the head. | Black and white chess pieces floating around the waist. |
+
+### Chess Emote
+
+![Chess Emote](minecraft/chess-emote/preview.gif)
+
+A one-shot emote from the chess set: a chair and a small chess table build themselves out of the floor, the player sits down, thinks, plays g2-g3, nods and stands up again while the set folds away. 9.5 seconds, bendable knees and elbows.
+
+[Close-up of the pawn move](minecraft/chess-emote/pawn_move.gif)
 
 More previews: [minecraft/](minecraft/)
 
