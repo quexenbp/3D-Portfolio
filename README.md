@@ -64,7 +64,7 @@ Animated cosmetics and emotes for Minecraft: auras, head cosmetics, wings, pets 
 
 ![Chess Emote](minecraft/chess-emote/preview.gif)
 
-A one-shot emote from the chess set: a chair and a small chess table build themselves out of the floor, the player sits down, thinks, plays g2-g3, nods and stands up again while the set folds away. 9.5 seconds, bendable knees and elbows.
+A one-shot emote from the chess set, a chair and a small chess table build themselves out of the floor, the player sits down, thinks, plays g2-g3, nods and stands up again while the set folds away. 9.5 seconds, bendable knees and elbows. Honestly it is kind of cute.
 
 [Close-up of the pawn move](minecraft/chess-emote/pawn_move.gif)
 
@@ -72,7 +72,7 @@ A one-shot emote from the chess set: a chair and a small chess table build thems
 
 ![Smug Chess Emote](minecraft/smug-chess/preview.gif)
 
-A 30 second smug chess emote: the player pulls a folding chair out of their pocket, flicks it open, sits down cross-legged, plays a move, slams the chess clock and leans back with hands behind the head. At the end the chair folds shut and goes back into the pocket. Bendable elbows and knees.
+A 30 seconds chess animation I made. I hope nobody uses it for "toxicity" in any game. 
 
 [Pocket chair](minecraft/smug-chess/pocket_chair.gif) · [Move and clock](minecraft/smug-chess/move_and_clock.gif) · [Folding chair](minecraft/smug-chess/chair.png)
 
