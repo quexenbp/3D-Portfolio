@@ -68,6 +68,14 @@ A one-shot emote from the chess set: a chair and a small chess table build thems
 
 [Close-up of the pawn move](minecraft/chess-emote/pawn_move.gif)
 
+### Smug Chess Emote
+
+![Smug Chess Emote](minecraft/smug-chess/preview.gif)
+
+A 30 second smug chess emote: the player pulls a folding chair out of their pocket, flicks it open, sits down cross-legged, plays a move, slams the chess clock and leans back with hands behind the head. At the end the chair folds shut and goes back into the pocket. Bendable elbows and knees.
+
+[Pocket chair](minecraft/smug-chess/pocket_chair.gif) · [Move and clock](minecraft/smug-chess/move_and_clock.gif) · [Folding chair](minecraft/smug-chess/chair.png)
+
 More previews: [minecraft/](minecraft/)
 
 ---
